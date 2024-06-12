@@ -36,7 +36,7 @@ import utilities_lifetime.container_qalys
 import utilities_lifetime.container_resources
 import utilities_lifetime.container_costeffectiveness
 # The home of the main calculation functions:
-import utilities_lifetime.main_calculations as calc
+import stroke_lifetime.main_calculations as calc
 # Function to import fixed params for either mRS or dicho model:
 from stroke_lifetime.fixed_params import get_fixed_params
 
